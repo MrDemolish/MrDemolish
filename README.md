@@ -1,4 +1,4 @@
-**Witaj! 👋 Jestem Fadi Suleiman.**
+**Witaj! 👋 Nazywam się Fadi Suleiman.**
 
 💼 Jestem absolwentem kierunku Informatyka oraz kończę studia magisterskie z zakresu Informatyki w Procesach Biznesowych na Politechnice Poznańskiej. Moja pasja do nauki i kodowania zaczęła się już w młodym wieku, kiedy napisałem moje pierwsze linie kodu i badałem tajniki inżynierii odwrotnej.
 
